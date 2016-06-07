@@ -1,0 +1,16 @@
+--open hbase shell
+hbase shell
+
+
+--look for the option for hbase
+$ hbase
+
+--once entered into hbase shell.
+to check the version
+
+$ version 
+
+to check the status of the hbase
+$ status
+
+
